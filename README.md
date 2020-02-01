@@ -1,5 +1,10 @@
-![](results/lab3.png)
-![](results/lab4.png)
+Vanishing points
+![Vanishing points](results/lab3.png)
+Epipolar lines
+![Epipolar lines](results/lab4.png)
+Possible reconstruction
+
+![Possible reconstruction](results/projection.gif)
 
 https://cw.fel.cvut.cz/wiki/courses/gvg/start
 
