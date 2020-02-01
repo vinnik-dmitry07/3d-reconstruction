@@ -1,10 +1,12 @@
-Vanishing points
+Vanishing points:
 ![Vanishing points](results/lab3.png)
-Epipolar lines
+Epipolar lines:
 ![Epipolar lines](results/lab4.png)
-Possible reconstruction
+Possible reconstruction:
 
 ![Possible reconstruction](results/projection.gif)
+
+Based on the courses:
 
 https://cw.fel.cvut.cz/wiki/courses/gvg/start
 
